@@ -22,6 +22,5 @@ malloc, realloc, calloc, free 함수를 직접 구현하는 프로그램
 85/100
    
 ## 출처
-* https://www.cs.purdue.edu/homes/cs252/
-* my_malloc.h와 my_malloc.c에서 기본 코드 제공
-* 직접 작성한 코드: my_malloc.c에서 '@'으로 감싸진 helper 함수와 allocObject & deallocObject
+* Purdue University (CS 252: Systems Programming)
+* 직접 작성한 코드: my_malloc.c에서 '@'으로 감싸진 부분과 allocObject 함수와 deallocObject 함수
